@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enemies>
+	<enemy>
+		<name>Jacinto</name>
+		<damage>33</damage>
+		<health>100</health>
+	</enemy>
+	<enemy>
+		<name>Paquito</name>
+		<damage>66</damage>
+		<health>33</health>
+	</enemy>
+</enemies>
