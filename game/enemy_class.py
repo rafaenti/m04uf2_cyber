@@ -5,8 +5,8 @@ import random
 class Enemy:
 	def __init__(self, name, health, strength, description = ""):
 		self.name = name
-		self.health = health
-		self.strength = strength
+		self.health = int(health)
+		self.strength = int(strength)
 		self.description = description
 
 		print(self.name+": "+self.description)
